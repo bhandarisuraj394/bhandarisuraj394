@@ -17,10 +17,10 @@
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
-  <li><b>Frontend:</b>HTML,CSS,BootStrap,JavaScript,React</li>
-  <li><b>Backend:</b>Java,SpringBoot,REST API's,Hibernate,JDBC,</li>
-  <li><b>Database:</b> MySQL - SQL(DDL, DML, DQL),Joins,Keys(Primary,Foreign,Uniques),Views </li>
-  <li><b>Tools:</b> Git,GitHub,Eclipse,NetBeans,MySQL,IntelliJ,VS Code</li>
+  <li><b>Frontend:</b>HTML, CSS, BootStrap, JavaScript, React</li>
+  <li><b>Backend:</b>Java, SpringBoot, REST API's, Hibernate, JDBC,</li>
+  <li><b>Database:</b> MySQL - SQL(DDL, DML, DQL), Joins, Keys(Primary, Foreign, Uniques), Views </li>
+  <li><b>Tools:</b>GitHub, Eclipse, NetBeans, MySQL, IntelliJ, VS Code, SpringBoot</li>
 </ul>
 
 <hr>
