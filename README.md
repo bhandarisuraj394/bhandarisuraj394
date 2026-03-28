@@ -9,7 +9,7 @@
   <li>🌱 Continuously improving skills in <b>Core Java, Spring Boot, REST APIs, and MySQL</b></li>
   <li>👯 Open to collaborating on <b>real-world full stack development projects</b></li>
   <li>💬 Ask me about <b>Java, Spring Boot, React, and Web Development</b></li>
-  <li>📫 Reach me at: <b>your-email@example.com</b></li>
+  <li>📫 Reach me at: <b>bhandarisuraj394@gmail.com</b></li>
   <li>⚡ Passionate about building scalable and efficient web applications</li>
 </ul>
 
